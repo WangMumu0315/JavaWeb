@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/admin/book/add.jsp" value="file://$PROJECT_DIR$/web/admin/book" />
+        <entry key="file://$PROJECT_DIR$/web/admin/book/list.jsp" value="file://$PROJECT_DIR$/web/admin/book" />
+        <entry key="file://$PROJECT_DIR$/web/admin/book/mod.jsp" value="file://$PROJECT_DIR$/web/admin/book" />
+        <entry key="file://$PROJECT_DIR$/web/admin/customer/list.jsp" value="file://$PROJECT_DIR$/web/admin/customer" />
+        <entry key="file://$PROJECT_DIR$/web/admin/login.jsp" value="file://$PROJECT_DIR$/web/admin" />
+        <entry key="file://$PROJECT_DIR$/web/admin/order/list.jsp" value="file://$PROJECT_DIR$/web/admin/order" />
+        <entry key="file://$PROJECT_DIR$/web/admin/user/add.jsp" value="file://$PROJECT_DIR$/web/admin/user" />
+        <entry key="file://$PROJECT_DIR$/web/admin/user/mod.jsp" value="file://$PROJECT_DIR$/web/admin/user" />
+        <entry key="file://$PROJECT_DIR$/web/customer/book/info.jsp" value="file://$PROJECT_DIR$/web/customer/book" />
+        <entry key="file://$PROJECT_DIR$/web/customer/book/list.jsp" value="file://$PROJECT_DIR$/web/customer/book" />
+        <entry key="file://$PROJECT_DIR$/web/customer/cart/info.jsp" value="file://$PROJECT_DIR$/web/customer/cart" />
+        <entry key="file://$PROJECT_DIR$/web/customer/login.jsp" value="file://$PROJECT_DIR$/web/customer" />
+        <entry key="file://$PROJECT_DIR$/web/customer/order/info.jsp" value="file://$PROJECT_DIR$/web/customer/order" />
+        <entry key="file://$PROJECT_DIR$/web/customer/order/list.jsp" value="file://$PROJECT_DIR$/web/customer/order" />
+        <entry key="file://$PROJECT_DIR$/web/customer/order/order.jsp" value="file://$PROJECT_DIR$/web/customer/order" />
+        <entry key="file://$PROJECT_DIR$/web/customer/order/pay.jsp" value="file://$PROJECT_DIR$/web/customer/order" />
+        <entry key="file://$PROJECT_DIR$/web/customer/register.jsp" value="file://$PROJECT_DIR$/web/customer" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="app4-1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="952a06a8-0168-4ca5-85e0-6a89b0b06408" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="myJSP" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zkqjRwQNciLcT3VHRA7Dfx64ki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\src" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp\product" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp\product\admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cdu.nls.app.controller" />
+      <recent name="cdu.nls.app.service" />
+      <recent name="cdu.nls.app.dao.impl" />
+      <recent name="cdu.nls.app.dao" />
+      <recent name="com.nls.app.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp\product" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\jsp\customer" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\lib" />
+      <recent name="E:\21221_IdeaProjects_javaweb\app4-1\web\WEB-INF\admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.522" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="app4-1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/app4_1" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_522_app4-1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53405" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="app4-1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19950332" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="952a06a8-0168-4ca5-85e0-6a89b0b06408" name="Default Changelist" comment="" />
+      <created>1634702567727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634702567727</updated>
+      <workItem from="1634702571478" duration="9916000" />
+      <workItem from="1634794270970" duration="4157000" />
+      <workItem from="1635217695470" duration="7085000" />
+      <workItem from="1635235235939" duration="47514000" />
+      <workItem from="1635411539281" duration="1162000" />
+      <workItem from="1635423955680" duration="2128000" />
+      <workItem from="1635772909183" duration="934000" />
+      <workItem from="1635909105634" duration="1300000" />
+      <workItem from="1635924520774" duration="379000" />
+      <workItem from="1635939476285" duration="3314000" />
+      <workItem from="1636078904614" duration="26000" />
+      <workItem from="1636611431870" duration="1124000" />
+      <workItem from="1636620124646" duration="1067000" />
+      <workItem from="1636683543082" duration="347000" />
+      <workItem from="1636693702594" duration="1392000" />
+      <workItem from="1636955642816" duration="13000" />
+      <workItem from="1637493437757" duration="23839000" />
+      <workItem from="1637560649943" duration="1216000" />
+      <workItem from="1637566168665" duration="337000" />
+      <workItem from="1647914074184" duration="631000" />
+      <workItem from="1647920367473" duration="1414000" />
+      <workItem from="1647928834550" duration="951000" />
+      <workItem from="1648713424792" duration="1369000" />
+      <workItem from="1668996432678" duration="7945000" />
+      <workItem from="1682303036658" duration="6362000" />
+      <workItem from="1682334757811" duration="3906000" />
+      <workItem from="1682482162617" duration="1642000" />
+      <workItem from="1682484273342" duration="898000" />
+      <workItem from="1682485718662" duration="1338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

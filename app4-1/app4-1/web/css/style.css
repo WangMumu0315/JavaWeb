@@ -1,0 +1,87 @@
+html, body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 120%/1 Arial, Helvetica, sans-serif;
+}
+
+a, a:link, a:hover, a:visited {
+    text-decoration: none;
+    font-size: 0.8em;
+    padding: 0 10px;
+    color: darkred;
+}
+
+.header {
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    width: 100%;
+    font-size: 1.1em;
+    font-weight: normal;
+    margin: 0 0 10px;
+    padding: 10px 20px;
+    background-color: #888;
+    color: #fff;
+}
+
+.msg {
+    font-size: 0.8em;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0 10px 10px 10px;
+    padding: 10px;
+}
+
+.msg div {
+    margin: 5px 0;
+}
+
+.msg span {
+    font-size: 0.5em;
+    margin-right: 20px;
+}
+
+
+.subject {
+    font-weight: bolder;
+}
+
+.content {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.reply {
+    font-size: 0.8em;
+    background-color: #eee;
+    padding: 5px 15px;
+}
+
+.reply span {
+    font-size: 0.5em;
+}
+
+.page {
+    font-size: 0.5em;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #888;
+    color: #fff;
+}
+
+.page a, .page a:hover, .page a:link, .page a:visited {
+    color: #fff;
+}
+
+
+form {
+    margin: 10px;
+}
+
+
